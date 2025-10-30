@@ -1,0 +1,4 @@
+This is a small sample file for the Python Text Processing assignment.
+It contains several words, punctuation, and repeated words to help test counting.
+The quick brown fox jumps over the lazy dog. The dog was not amused; the fox was quick.
+Use this text to test reading files, counting words, and performing simple replacements.
